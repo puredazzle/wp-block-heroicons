@@ -26,7 +26,7 @@ add_action(
     function () {
         wp_enqueue_style(
             'wp-block-heroicons',
-            __FILE__ . '/heroicons.css',
+            plugins_url('/heroicons.css', __FILE__),
             [],
             '1.0.0',
             'all',
