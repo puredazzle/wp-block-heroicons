@@ -10,7 +10,7 @@
  */
 
 /*
- * Plugin Name: wp-block-heroicons
+ * Plugin Name: WP Block Heroicons
  * Description: A WordPress plugin for using Heroicons in your blocks.
  * Author: Chris Andersson
  * Author URI: https://github.com/puredazzle
@@ -24,10 +24,10 @@ declare(strict_types=1);
 add_action(
     'enqueue_block_editor_assets',
     function () {
-        wp_register_style(
+        wp_enqueue_style(
             'wp-block-heroicons',
             __FILE__ . '/heroicons.css',
-            false,
+            [],
             '1.0.0',
             'all',
         );

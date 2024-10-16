@@ -16,5 +16,5 @@ composer require puredazzle/wp-block-heroicons
 ## How to use
 
 ```json
-"icon": "his/academic-cap",
+"icon": "heroicons/academic-cap",
 ```
