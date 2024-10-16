@@ -1,0 +1,27 @@
+{
+    "name": "puredazzle/wp-block-heroicons",
+    "description": "A WordPress plugin for using Heroicons in your blocks.",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "keywords": [
+        "wordplate",
+        "heroicons",
+        "tailwindcss",
+        "wordpress",
+        "plugin"
+    ],
+    "authors": [
+        {
+            "name": "Chris Andersson",
+            "homepage": "https://github.com/puredazzle"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "preferred-install": "dist"
+    }
+}
