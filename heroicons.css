@@ -5,7 +5,7 @@
   font-display: swap;
 }
 
-[class*='heroicons\/'] {
+[class*='dashicons-heroicons\/'] {
   font-weight: normal;
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'heroicons-solid' !important;
@@ -20,891 +20,891 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class*='heroicons\/academic-cap']:before {
+.dashicons-heroicons\/academic-cap:before {
   content: '\e900';
 }
-[class*='heroicons\/adjustments-horizontal']:before {
+.dashicons-heroicons\/adjustments-horizontal:before {
   content: '\e901';
 }
-[class*='heroicons\/adjustments-vertical']:before {
+.dashicons-heroicons\/adjustments-vertical:before {
   content: '\e902';
 }
-[class*='heroicons\/archive-box-arrow-down']:before {
+.dashicons-heroicons\/archive-box-arrow-down:before {
   content: '\e903';
 }
-[class*='heroicons\/archive-box-x-mark']:before {
+.dashicons-heroicons\/archive-box-x-mark:before {
   content: '\e904';
 }
-[class*='heroicons\/archive-box']:before {
+.dashicons-heroicons\/archive-box:before {
   content: '\e905';
 }
-[class*='heroicons\/arrow-down-circle']:before {
+.dashicons-heroicons\/arrow-down-circle:before {
   content: '\e906';
 }
-[class*='heroicons\/arrow-down-left']:before {
+.dashicons-heroicons\/arrow-down-left:before {
   content: '\e907';
 }
-[class*='heroicons\/arrow-down-on-square-stack']:before {
+.dashicons-heroicons\/arrow-down-on-square-stack:before {
   content: '\e908';
 }
-[class*='heroicons\/arrow-down-on-square']:before {
+.dashicons-heroicons\/arrow-down-on-square:before {
   content: '\e909';
 }
-[class*='heroicons\/arrow-down-right']:before {
+.dashicons-heroicons\/arrow-down-right:before {
   content: '\e90a';
 }
-[class*='heroicons\/arrow-down-tray']:before {
+.dashicons-heroicons\/arrow-down-tray:before {
   content: '\e90b';
 }
-[class*='heroicons\/arrow-down']:before {
+.dashicons-heroicons\/arrow-down:before {
   content: '\e90c';
 }
-[class*='heroicons\/arrow-left-circle']:before {
+.dashicons-heroicons\/arrow-left-circle:before {
   content: '\e90d';
 }
-[class*='heroicons\/arrow-left-end-on-rectangle']:before {
+.dashicons-heroicons\/arrow-left-end-on-rectangle:before {
   content: '\e90e';
 }
-[class*='heroicons\/arrow-left-on-rectangle']:before {
+.dashicons-heroicons\/arrow-left-on-rectangle:before {
   content: '\e90f';
 }
-[class*='heroicons\/arrow-left-start-on-rectangle']:before {
+.dashicons-heroicons\/arrow-left-start-on-rectangle:before {
   content: '\e910';
 }
-[class*='heroicons\/arrow-left']:before {
+.dashicons-heroicons\/arrow-left:before {
   content: '\e911';
 }
-[class*='heroicons\/arrow-long-down']:before {
+.dashicons-heroicons\/arrow-long-down:before {
   content: '\e912';
 }
-[class*='heroicons\/arrow-long-left']:before {
+.dashicons-heroicons\/arrow-long-left:before {
   content: '\e913';
 }
-[class*='heroicons\/arrow-long-right']:before {
+.dashicons-heroicons\/arrow-long-right:before {
   content: '\e914';
 }
-[class*='heroicons\/arrow-long-up']:before {
+.dashicons-heroicons\/arrow-long-up:before {
   content: '\e915';
 }
-[class*='heroicons\/arrow-path-rounded-square']:before {
+.dashicons-heroicons\/arrow-path-rounded-square:before {
   content: '\e916';
 }
-[class*='heroicons\/arrow-path']:before {
+.dashicons-heroicons\/arrow-path:before {
   content: '\e917';
 }
-[class*='heroicons\/arrow-right-circle']:before {
+.dashicons-heroicons\/arrow-right-circle:before {
   content: '\e918';
 }
-[class*='heroicons\/arrow-right-end-on-rectangle']:before {
+.dashicons-heroicons\/arrow-right-end-on-rectangle:before {
   content: '\e919';
 }
-[class*='heroicons\/arrow-right-on-rectangle']:before {
+.dashicons-heroicons\/arrow-right-on-rectangle:before {
   content: '\e91a';
 }
-[class*='heroicons\/arrow-right-start-on-rectangle']:before {
+.dashicons-heroicons\/arrow-right-start-on-rectangle:before {
   content: '\e91b';
 }
-[class*='heroicons\/arrow-right']:before {
+.dashicons-heroicons\/arrow-right:before {
   content: '\e91c';
 }
-[class*='heroicons\/arrow-small-down']:before {
+.dashicons-heroicons\/arrow-small-down:before {
   content: '\e91d';
 }
-[class*='heroicons\/arrow-small-left']:before {
+.dashicons-heroicons\/arrow-small-left:before {
   content: '\e91e';
 }
-[class*='heroicons\/arrow-small-right']:before {
+.dashicons-heroicons\/arrow-small-right:before {
   content: '\e91f';
 }
-[class*='heroicons\/arrow-small-up']:before {
+.dashicons-heroicons\/arrow-small-up:before {
   content: '\e920';
 }
-[class*='heroicons\/arrow-top-right-on-square']:before {
+.dashicons-heroicons\/arrow-top-right-on-square:before {
   content: '\e921';
 }
-[class*='heroicons\/arrow-trending-down']:before {
+.dashicons-heroicons\/arrow-trending-down:before {
   content: '\e922';
 }
-[class*='heroicons\/arrow-trending-up']:before {
+.dashicons-heroicons\/arrow-trending-up:before {
   content: '\e923';
 }
-[class*='heroicons\/arrow-up-circle']:before {
+.dashicons-heroicons\/arrow-up-circle:before {
   content: '\e924';
 }
-[class*='heroicons\/arrow-up-left']:before {
+.dashicons-heroicons\/arrow-up-left:before {
   content: '\e925';
 }
-[class*='heroicons\/arrow-up-on-square-stack']:before {
+.dashicons-heroicons\/arrow-up-on-square-stack:before {
   content: '\e926';
 }
-[class*='heroicons\/arrow-up-on-square']:before {
+.dashicons-heroicons\/arrow-up-on-square:before {
   content: '\e927';
 }
-[class*='heroicons\/arrow-up-right']:before {
+.dashicons-heroicons\/arrow-up-right:before {
   content: '\e928';
 }
-[class*='heroicons\/arrow-up-tray']:before {
+.dashicons-heroicons\/arrow-up-tray:before {
   content: '\e929';
 }
-[class*='heroicons\/arrow-up']:before {
+.dashicons-heroicons\/arrow-up:before {
   content: '\e92a';
 }
-[class*='heroicons\/arrow-uturn-down']:before {
+.dashicons-heroicons\/arrow-uturn-down:before {
   content: '\e92b';
 }
-[class*='heroicons\/arrow-uturn-left']:before {
+.dashicons-heroicons\/arrow-uturn-left:before {
   content: '\e92c';
 }
-[class*='heroicons\/arrow-uturn-right']:before {
+.dashicons-heroicons\/arrow-uturn-right:before {
   content: '\e92d';
 }
-[class*='heroicons\/arrow-uturn-up']:before {
+.dashicons-heroicons\/arrow-uturn-up:before {
   content: '\e92e';
 }
-[class*='heroicons\/arrows-pointing-in']:before {
+.dashicons-heroicons\/arrows-pointing-in:before {
   content: '\e92f';
 }
-[class*='heroicons\/arrows-pointing-out']:before {
+.dashicons-heroicons\/arrows-pointing-out:before {
   content: '\e930';
 }
-[class*='heroicons\/arrows-right-left']:before {
+.dashicons-heroicons\/arrows-right-left:before {
   content: '\e931';
 }
-[class*='heroicons\/arrows-up-down']:before {
+.dashicons-heroicons\/arrows-up-down:before {
   content: '\e932';
 }
-[class*='heroicons\/at-symbol']:before {
+.dashicons-heroicons\/at-symbol:before {
   content: '\e933';
 }
-[class*='heroicons\/backspace']:before {
+.dashicons-heroicons\/backspace:before {
   content: '\e934';
 }
-[class*='heroicons\/backward']:before {
+.dashicons-heroicons\/backward:before {
   content: '\e935';
 }
-[class*='heroicons\/banknotes']:before {
+.dashicons-heroicons\/banknotes:before {
   content: '\e936';
 }
-[class*='heroicons\/bars-2']:before {
+.dashicons-heroicons\/bars-2:before {
   content: '\e937';
 }
-[class*='heroicons\/bars-3-bottom-left']:before {
+.dashicons-heroicons\/bars-3-bottom-left:before {
   content: '\e938';
 }
-[class*='heroicons\/bars-3-bottom-right']:before {
+.dashicons-heroicons\/bars-3-bottom-right:before {
   content: '\e939';
 }
-[class*='heroicons\/bars-3-center-left']:before {
+.dashicons-heroicons\/bars-3-center-left:before {
   content: '\e93a';
 }
-[class*='heroicons\/bars-3']:before {
+.dashicons-heroicons\/bars-3:before {
   content: '\e93b';
 }
-[class*='heroicons\/bars-4']:before {
+.dashicons-heroicons\/bars-4:before {
   content: '\e93c';
 }
-[class*='heroicons\/bars-arrow-down']:before {
+.dashicons-heroicons\/bars-arrow-down:before {
   content: '\e93d';
 }
-[class*='heroicons\/bars-arrow-up']:before {
+.dashicons-heroicons\/bars-arrow-up:before {
   content: '\e93e';
 }
-[class*='heroicons\/battery-0']:before {
+.dashicons-heroicons\/battery-0:before {
   content: '\e93f';
 }
-[class*='heroicons\/battery-50']:before {
+.dashicons-heroicons\/battery-50:before {
   content: '\e940';
 }
-[class*='heroicons\/battery-100']:before {
+.dashicons-heroicons\/battery-100:before {
   content: '\e941';
 }
-[class*='heroicons\/beaker']:before {
+.dashicons-heroicons\/beaker:before {
   content: '\e942';
 }
-[class*='heroicons\/bell-alert']:before {
+.dashicons-heroicons\/bell-alert:before {
   content: '\e943';
 }
-[class*='heroicons\/bell-slash']:before {
+.dashicons-heroicons\/bell-slash:before {
   content: '\e944';
 }
-[class*='heroicons\/bell-snooze']:before {
+.dashicons-heroicons\/bell-snooze:before {
   content: '\e945';
 }
-[class*='heroicons\/bell']:before {
+.dashicons-heroicons\/bell:before {
   content: '\e946';
 }
-[class*='heroicons\/bolt-slash']:before {
+.dashicons-heroicons\/bolt-slash:before {
   content: '\e947';
 }
-[class*='heroicons\/bolt']:before {
+.dashicons-heroicons\/bolt:before {
   content: '\e948';
 }
-[class*='heroicons\/book-open']:before {
+.dashicons-heroicons\/book-open:before {
   content: '\e949';
 }
-[class*='heroicons\/bookmark-slash']:before {
+.dashicons-heroicons\/bookmark-slash:before {
   content: '\e94a';
 }
-[class*='heroicons\/bookmark-square']:before {
+.dashicons-heroicons\/bookmark-square:before {
   content: '\e94b';
 }
-[class*='heroicons\/bookmark']:before {
+.dashicons-heroicons\/bookmark:before {
   content: '\e94c';
 }
-[class*='heroicons\/briefcase']:before {
+.dashicons-heroicons\/briefcase:before {
   content: '\e94d';
 }
-[class*='heroicons\/bug-ant']:before {
+.dashicons-heroicons\/bug-ant:before {
   content: '\e94e';
 }
-[class*='heroicons\/building-library']:before {
+.dashicons-heroicons\/building-library:before {
   content: '\e94f';
 }
-[class*='heroicons\/building-office-2']:before {
+.dashicons-heroicons\/building-office-2:before {
   content: '\e950';
 }
-[class*='heroicons\/building-office']:before {
+.dashicons-heroicons\/building-office:before {
   content: '\e951';
 }
-[class*='heroicons\/building-storefront']:before {
+.dashicons-heroicons\/building-storefront:before {
   content: '\e952';
 }
-[class*='heroicons\/cake']:before {
+.dashicons-heroicons\/cake:before {
   content: '\e953';
 }
-[class*='heroicons\/calculator']:before {
+.dashicons-heroicons\/calculator:before {
   content: '\e954';
 }
-[class*='heroicons\/calendar-days']:before {
+.dashicons-heroicons\/calendar-days:before {
   content: '\e955';
 }
-[class*='heroicons\/calendar']:before {
+.dashicons-heroicons\/calendar:before {
   content: '\e956';
 }
-[class*='heroicons\/camera']:before {
+.dashicons-heroicons\/camera:before {
   content: '\e957';
 }
-[class*='heroicons\/chart-bar-square']:before {
+.dashicons-heroicons\/chart-bar-square:before {
   content: '\e958';
 }
-[class*='heroicons\/chart-bar']:before {
+.dashicons-heroicons\/chart-bar:before {
   content: '\e959';
 }
-[class*='heroicons\/chart-pie']:before {
+.dashicons-heroicons\/chart-pie:before {
   content: '\e95a';
 }
-[class*='heroicons\/chat-bubble-bottom-center-text']:before {
+.dashicons-heroicons\/chat-bubble-bottom-center-text:before {
   content: '\e95b';
 }
-[class*='heroicons\/chat-bubble-bottom-center']:before {
+.dashicons-heroicons\/chat-bubble-bottom-center:before {
   content: '\e95c';
 }
-[class*='heroicons\/chat-bubble-left-ellipsis']:before {
+.dashicons-heroicons\/chat-bubble-left-ellipsis:before {
   content: '\e95d';
 }
-[class*='heroicons\/chat-bubble-left-right']:before {
+.dashicons-heroicons\/chat-bubble-left-right:before {
   content: '\e95e';
 }
-[class*='heroicons\/chat-bubble-left']:before {
+.dashicons-heroicons\/chat-bubble-left:before {
   content: '\e95f';
 }
-[class*='heroicons\/chat-bubble-oval-left-ellipsis']:before {
+.dashicons-heroicons\/chat-bubble-oval-left-ellipsis:before {
   content: '\e960';
 }
-[class*='heroicons\/chat-bubble-oval-left']:before {
+.dashicons-heroicons\/chat-bubble-oval-left:before {
   content: '\e961';
 }
-[class*='heroicons\/check-badge']:before {
+.dashicons-heroicons\/check-badge:before {
   content: '\e962';
 }
-[class*='heroicons\/check-circle']:before {
+.dashicons-heroicons\/check-circle:before {
   content: '\e963';
 }
-[class*='heroicons\/check']:before {
+.dashicons-heroicons\/check:before {
   content: '\e964';
 }
-[class*='heroicons\/chevron-double-down']:before {
+.dashicons-heroicons\/chevron-double-down:before {
   content: '\e965';
 }
-[class*='heroicons\/chevron-double-left']:before {
+.dashicons-heroicons\/chevron-double-left:before {
   content: '\e966';
 }
-[class*='heroicons\/chevron-double-right']:before {
+.dashicons-heroicons\/chevron-double-right:before {
   content: '\e967';
 }
-[class*='heroicons\/chevron-double-up']:before {
+.dashicons-heroicons\/chevron-double-up:before {
   content: '\e968';
 }
-[class*='heroicons\/chevron-down']:before {
+.dashicons-heroicons\/chevron-down:before {
   content: '\e969';
 }
-[class*='heroicons\/chevron-left']:before {
+.dashicons-heroicons\/chevron-left:before {
   content: '\e96a';
 }
-[class*='heroicons\/chevron-right']:before {
+.dashicons-heroicons\/chevron-right:before {
   content: '\e96b';
 }
-[class*='heroicons\/chevron-up-down']:before {
+.dashicons-heroicons\/chevron-up-down:before {
   content: '\e96c';
 }
-[class*='heroicons\/chevron-up']:before {
+.dashicons-heroicons\/chevron-up:before {
   content: '\e96d';
 }
-[class*='heroicons\/circle-stack']:before {
+.dashicons-heroicons\/circle-stack:before {
   content: '\e96e';
 }
-[class*='heroicons\/clipboard-document-check']:before {
+.dashicons-heroicons\/clipboard-document-check:before {
   content: '\e96f';
 }
-[class*='heroicons\/clipboard-document-list']:before {
+.dashicons-heroicons\/clipboard-document-list:before {
   content: '\e970';
 }
-[class*='heroicons\/clipboard-document']:before {
+.dashicons-heroicons\/clipboard-document:before {
   content: '\e971';
 }
-[class*='heroicons\/clipboard']:before {
+.dashicons-heroicons\/clipboard:before {
   content: '\e972';
 }
-[class*='heroicons\/clock']:before {
+.dashicons-heroicons\/clock:before {
   content: '\e973';
 }
-[class*='heroicons\/cloud-arrow-down']:before {
+.dashicons-heroicons\/cloud-arrow-down:before {
   content: '\e974';
 }
-[class*='heroicons\/cloud-arrow-up']:before {
+.dashicons-heroicons\/cloud-arrow-up:before {
   content: '\e975';
 }
-[class*='heroicons\/cloud']:before {
+.dashicons-heroicons\/cloud:before {
   content: '\e976';
 }
-[class*='heroicons\/code-bracket-square']:before {
+.dashicons-heroicons\/code-bracket-square:before {
   content: '\e977';
 }
-[class*='heroicons\/code-bracket']:before {
+.dashicons-heroicons\/code-bracket:before {
   content: '\e978';
 }
-[class*='heroicons\/cog-6-tooth']:before {
+.dashicons-heroicons\/cog-6-tooth:before {
   content: '\e979';
 }
-[class*='heroicons\/cog-8-tooth']:before {
+.dashicons-heroicons\/cog-8-tooth:before {
   content: '\e97a';
 }
-[class*='heroicons\/cog']:before {
+.dashicons-heroicons\/cog:before {
   content: '\e97b';
 }
-[class*='heroicons\/command-line']:before {
+.dashicons-heroicons\/command-line:before {
   content: '\e97c';
 }
-[class*='heroicons\/computer-desktop']:before {
+.dashicons-heroicons\/computer-desktop:before {
   content: '\e97d';
 }
-[class*='heroicons\/cpu-chip']:before {
+.dashicons-heroicons\/cpu-chip:before {
   content: '\e97e';
 }
-[class*='heroicons\/credit-card']:before {
+.dashicons-heroicons\/credit-card:before {
   content: '\e97f';
 }
-[class*='heroicons\/cube-transparent']:before {
+.dashicons-heroicons\/cube-transparent:before {
   content: '\e980';
 }
-[class*='heroicons\/cube']:before {
+.dashicons-heroicons\/cube:before {
   content: '\e981';
 }
-[class*='heroicons\/currency-bangladeshi']:before {
+.dashicons-heroicons\/currency-bangladeshi:before {
   content: '\e982';
 }
-[class*='heroicons\/currency-dollar']:before {
+.dashicons-heroicons\/currency-dollar:before {
   content: '\e983';
 }
-[class*='heroicons\/currency-euro']:before {
+.dashicons-heroicons\/currency-euro:before {
   content: '\e984';
 }
-[class*='heroicons\/currency-pound']:before {
+.dashicons-heroicons\/currency-pound:before {
   content: '\e985';
 }
-[class*='heroicons\/currency-rupee']:before {
+.dashicons-heroicons\/currency-rupee:before {
   content: '\e986';
 }
-[class*='heroicons\/currency-yen']:before {
+.dashicons-heroicons\/currency-yen:before {
   content: '\e987';
 }
-[class*='heroicons\/cursor-arrow-rays']:before {
+.dashicons-heroicons\/cursor-arrow-rays:before {
   content: '\e988';
 }
-[class*='heroicons\/cursor-arrow-ripple']:before {
+.dashicons-heroicons\/cursor-arrow-ripple:before {
   content: '\e989';
 }
-[class*='heroicons\/device-phone-mobile']:before {
+.dashicons-heroicons\/device-phone-mobile:before {
   content: '\e98a';
 }
-[class*='heroicons\/device-tablet']:before {
+.dashicons-heroicons\/device-tablet:before {
   content: '\e98b';
 }
-[class*='heroicons\/document-arrow-down']:before {
+.dashicons-heroicons\/document-arrow-down:before {
   content: '\e98c';
 }
-[class*='heroicons\/document-arrow-up']:before {
+.dashicons-heroicons\/document-arrow-up:before {
   content: '\e98d';
 }
-[class*='heroicons\/document-chart-bar']:before {
+.dashicons-heroicons\/document-chart-bar:before {
   content: '\e98e';
 }
-[class*='heroicons\/document-check']:before {
+.dashicons-heroicons\/document-check:before {
   content: '\e98f';
 }
-[class*='heroicons\/document-duplicate']:before {
+.dashicons-heroicons\/document-duplicate:before {
   content: '\e990';
 }
-[class*='heroicons\/document-magnifying-glass']:before {
+.dashicons-heroicons\/document-magnifying-glass:before {
   content: '\e991';
 }
-[class*='heroicons\/document-minus']:before {
+.dashicons-heroicons\/document-minus:before {
   content: '\e992';
 }
-[class*='heroicons\/document-plus']:before {
+.dashicons-heroicons\/document-plus:before {
   content: '\e993';
 }
-[class*='heroicons\/document-text']:before {
+.dashicons-heroicons\/document-text:before {
   content: '\e994';
 }
-[class*='heroicons\/document']:before {
+.dashicons-heroicons\/document:before {
   content: '\e995';
 }
-[class*='heroicons\/ellipsis-horizontal-circle']:before {
+.dashicons-heroicons\/ellipsis-horizontal-circle:before {
   content: '\e996';
 }
-[class*='heroicons\/ellipsis-horizontal']:before {
+.dashicons-heroicons\/ellipsis-horizontal:before {
   content: '\e997';
 }
-[class*='heroicons\/ellipsis-vertical']:before {
+.dashicons-heroicons\/ellipsis-vertical:before {
   content: '\e998';
 }
-[class*='heroicons\/envelope-open']:before {
+.dashicons-heroicons\/envelope-open:before {
   content: '\e999';
 }
-[class*='heroicons\/envelope']:before {
+.dashicons-heroicons\/envelope:before {
   content: '\e99a';
 }
-[class*='heroicons\/exclamation-circle']:before {
+.dashicons-heroicons\/exclamation-circle:before {
   content: '\e99b';
 }
-[class*='heroicons\/exclamation-triangle']:before {
+.dashicons-heroicons\/exclamation-triangle:before {
   content: '\e99c';
 }
-[class*='heroicons\/eye-dropper']:before {
+.dashicons-heroicons\/eye-dropper:before {
   content: '\e99d';
 }
-[class*='heroicons\/eye-slash']:before {
+.dashicons-heroicons\/eye-slash:before {
   content: '\e99e';
 }
-[class*='heroicons\/eye']:before {
+.dashicons-heroicons\/eye:before {
   content: '\e99f';
 }
-[class*='heroicons\/face-frown']:before {
+.dashicons-heroicons\/face-frown:before {
   content: '\e9a0';
 }
-[class*='heroicons\/face-smile']:before {
+.dashicons-heroicons\/face-smile:before {
   content: '\e9a1';
 }
-[class*='heroicons\/film']:before {
+.dashicons-heroicons\/film:before {
   content: '\e9a2';
 }
-[class*='heroicons\/finger-print']:before {
+.dashicons-heroicons\/finger-print:before {
   content: '\e9a3';
 }
-[class*='heroicons\/fire']:before {
+.dashicons-heroicons\/fire:before {
   content: '\e9a4';
 }
-[class*='heroicons\/flag']:before {
+.dashicons-heroicons\/flag:before {
   content: '\e9a5';
 }
-[class*='heroicons\/folder-arrow-down']:before {
+.dashicons-heroicons\/folder-arrow-down:before {
   content: '\e9a6';
 }
-[class*='heroicons\/folder-minus']:before {
+.dashicons-heroicons\/folder-minus:before {
   content: '\e9a7';
 }
-[class*='heroicons\/folder-open']:before {
+.dashicons-heroicons\/folder-open:before {
   content: '\e9a8';
 }
-[class*='heroicons\/folder-plus']:before {
+.dashicons-heroicons\/folder-plus:before {
   content: '\e9a9';
 }
-[class*='heroicons\/folder']:before {
+.dashicons-heroicons\/folder:before {
   content: '\e9aa';
 }
-[class*='heroicons\/forward']:before {
+.dashicons-heroicons\/forward:before {
   content: '\e9ab';
 }
-[class*='heroicons\/funnel']:before {
+.dashicons-heroicons\/funnel:before {
   content: '\e9ac';
 }
-[class*='heroicons\/gif']:before {
+.dashicons-heroicons\/gif:before {
   content: '\e9ad';
 }
-[class*='heroicons\/gift-top']:before {
+.dashicons-heroicons\/gift-top:before {
   content: '\e9ae';
 }
-[class*='heroicons\/gift']:before {
+.dashicons-heroicons\/gift:before {
   content: '\e9af';
 }
-[class*='heroicons\/globe-alt']:before {
+.dashicons-heroicons\/globe-alt:before {
   content: '\e9b0';
 }
-[class*='heroicons\/globe-americas']:before {
+.dashicons-heroicons\/globe-americas:before {
   content: '\e9b1';
 }
-[class*='heroicons\/globe-asia-australia']:before {
+.dashicons-heroicons\/globe-asia-australia:before {
   content: '\e9b2';
 }
-[class*='heroicons\/globe-europe-africa']:before {
+.dashicons-heroicons\/globe-europe-africa:before {
   content: '\e9b3';
 }
-[class*='heroicons\/hand-raised']:before {
+.dashicons-heroicons\/hand-raised:before {
   content: '\e9b4';
 }
-[class*='heroicons\/hand-thumb-down']:before {
+.dashicons-heroicons\/hand-thumb-down:before {
   content: '\e9b5';
 }
-[class*='heroicons\/hand-thumb-up']:before {
+.dashicons-heroicons\/hand-thumb-up:before {
   content: '\e9b6';
 }
-[class*='heroicons\/hashtag']:before {
+.dashicons-heroicons\/hashtag:before {
   content: '\e9b7';
 }
-[class*='heroicons\/heart']:before {
+.dashicons-heroicons\/heart:before {
   content: '\e9b8';
 }
-[class*='heroicons\/home-modern']:before {
+.dashicons-heroicons\/home-modern:before {
   content: '\e9b9';
 }
-[class*='heroicons\/home']:before {
+.dashicons-heroicons\/home:before {
   content: '\e9ba';
 }
-[class*='heroicons\/identification']:before {
+.dashicons-heroicons\/identification:before {
   content: '\e9bb';
 }
-[class*='heroicons\/inbox-arrow-down']:before {
+.dashicons-heroicons\/inbox-arrow-down:before {
   content: '\e9bc';
 }
-[class*='heroicons\/inbox-stack']:before {
+.dashicons-heroicons\/inbox-stack:before {
   content: '\e9bd';
 }
-[class*='heroicons\/inbox']:before {
+.dashicons-heroicons\/inbox:before {
   content: '\e9be';
 }
-[class*='heroicons\/information-circle']:before {
+.dashicons-heroicons\/information-circle:before {
   content: '\e9bf';
 }
-[class*='heroicons\/key']:before {
+.dashicons-heroicons\/key:before {
   content: '\e9c0';
 }
-[class*='heroicons\/language']:before {
+.dashicons-heroicons\/language:before {
   content: '\e9c1';
 }
-[class*='heroicons\/lifebuoy']:before {
+.dashicons-heroicons\/lifebuoy:before {
   content: '\e9c2';
 }
-[class*='heroicons\/light-bulb']:before {
+.dashicons-heroicons\/light-bulb:before {
   content: '\e9c3';
 }
-[class*='heroicons\/link']:before {
+.dashicons-heroicons\/link:before {
   content: '\e9c4';
 }
-[class*='heroicons\/list-bullet']:before {
+.dashicons-heroicons\/list-bullet:before {
   content: '\e9c5';
 }
-[class*='heroicons\/lock-closed']:before {
+.dashicons-heroicons\/lock-closed:before {
   content: '\e9c6';
 }
-[class*='heroicons\/lock-open']:before {
+.dashicons-heroicons\/lock-open:before {
   content: '\e9c7';
 }
-[class*='heroicons\/magnifying-glass-circle']:before {
+.dashicons-heroicons\/magnifying-glass-circle:before {
   content: '\e9c8';
 }
-[class*='heroicons\/magnifying-glass-minus']:before {
+.dashicons-heroicons\/magnifying-glass-minus:before {
   content: '\e9c9';
 }
-[class*='heroicons\/magnifying-glass-plus']:before {
+.dashicons-heroicons\/magnifying-glass-plus:before {
   content: '\e9ca';
 }
-[class*='heroicons\/magnifying-glass']:before {
+.dashicons-heroicons\/magnifying-glass:before {
   content: '\e9cb';
 }
-[class*='heroicons\/map-pin']:before {
+.dashicons-heroicons\/map-pin:before {
   content: '\e9cc';
 }
-[class*='heroicons\/map']:before {
+.dashicons-heroicons\/map:before {
   content: '\e9cd';
 }
-[class*='heroicons\/megaphone']:before {
+.dashicons-heroicons\/megaphone:before {
   content: '\e9ce';
 }
-[class*='heroicons\/microphone']:before {
+.dashicons-heroicons\/microphone:before {
   content: '\e9cf';
 }
-[class*='heroicons\/minus-circle']:before {
+.dashicons-heroicons\/minus-circle:before {
   content: '\e9d0';
 }
-[class*='heroicons\/minus-small']:before {
+.dashicons-heroicons\/minus-small:before {
   content: '\e9d1';
 }
-[class*='heroicons\/minus']:before {
+.dashicons-heroicons\/minus:before {
   content: '\e9d2';
 }
-[class*='heroicons\/moon']:before {
+.dashicons-heroicons\/moon:before {
   content: '\e9d3';
 }
-[class*='heroicons\/musical-note']:before {
+.dashicons-heroicons\/musical-note:before {
   content: '\e9d4';
 }
-[class*='heroicons\/newspaper']:before {
+.dashicons-heroicons\/newspaper:before {
   content: '\e9d5';
 }
-[class*='heroicons\/no-symbol']:before {
+.dashicons-heroicons\/no-symbol:before {
   content: '\e9d6';
 }
-[class*='heroicons\/paint-brush']:before {
+.dashicons-heroicons\/paint-brush:before {
   content: '\e9d7';
 }
-[class*='heroicons\/paper-airplane']:before {
+.dashicons-heroicons\/paper-airplane:before {
   content: '\e9d8';
 }
-[class*='heroicons\/paper-clip']:before {
+.dashicons-heroicons\/paper-clip:before {
   content: '\e9d9';
 }
-[class*='heroicons\/pause-circle']:before {
+.dashicons-heroicons\/pause-circle:before {
   content: '\e9da';
 }
-[class*='heroicons\/pause']:before {
+.dashicons-heroicons\/pause:before {
   content: '\e9db';
 }
-[class*='heroicons\/pencil-square']:before {
+.dashicons-heroicons\/pencil-square:before {
   content: '\e9dc';
 }
-[class*='heroicons\/pencil']:before {
+.dashicons-heroicons\/pencil:before {
   content: '\e9dd';
 }
-[class*='heroicons\/phone-arrow-down-left']:before {
+.dashicons-heroicons\/phone-arrow-down-left:before {
   content: '\e9de';
 }
-[class*='heroicons\/phone-arrow-up-right']:before {
+.dashicons-heroicons\/phone-arrow-up-right:before {
   content: '\e9df';
 }
-[class*='heroicons\/phone-x-mark']:before {
+.dashicons-heroicons\/phone-x-mark:before {
   content: '\e9e0';
 }
-[class*='heroicons\/phone']:before {
+.dashicons-heroicons\/phone:before {
   content: '\e9e1';
 }
-[class*='heroicons\/photo']:before {
+.dashicons-heroicons\/photo:before {
   content: '\e9e2';
 }
-[class*='heroicons\/play-circle']:before {
+.dashicons-heroicons\/play-circle:before {
   content: '\e9e3';
 }
-[class*='heroicons\/play-pause']:before {
+.dashicons-heroicons\/play-pause:before {
   content: '\e9e4';
 }
-[class*='heroicons\/play']:before {
+.dashicons-heroicons\/play:before {
   content: '\e9e5';
 }
-[class*='heroicons\/plus-circle']:before {
+.dashicons-heroicons\/plus-circle:before {
   content: '\e9e6';
 }
-[class*='heroicons\/plus-small']:before {
+.dashicons-heroicons\/plus-small:before {
   content: '\e9e7';
 }
-[class*='heroicons\/plus']:before {
+.dashicons-heroicons\/plus:before {
   content: '\e9e8';
 }
-[class*='heroicons\/power']:before {
+.dashicons-heroicons\/power:before {
   content: '\e9e9';
 }
-[class*='heroicons\/presentation-chart-bar']:before {
+.dashicons-heroicons\/presentation-chart-bar:before {
   content: '\e9ea';
 }
-[class*='heroicons\/presentation-chart-line']:before {
+.dashicons-heroicons\/presentation-chart-line:before {
   content: '\e9eb';
 }
-[class*='heroicons\/printer']:before {
+.dashicons-heroicons\/printer:before {
   content: '\e9ec';
 }
-[class*='heroicons\/puzzle-piece']:before {
+.dashicons-heroicons\/puzzle-piece:before {
   content: '\e9ed';
 }
-[class*='heroicons\/qr-code']:before {
+.dashicons-heroicons\/qr-code:before {
   content: '\e9ee';
 }
-[class*='heroicons\/question-mark-circle']:before {
+.dashicons-heroicons\/question-mark-circle:before {
   content: '\e9ef';
 }
-[class*='heroicons\/queue-list']:before {
+.dashicons-heroicons\/queue-list:before {
   content: '\e9f0';
 }
-[class*='heroicons\/radio']:before {
+.dashicons-heroicons\/radio:before {
   content: '\e9f1';
 }
-[class*='heroicons\/receipt-percent']:before {
+.dashicons-heroicons\/receipt-percent:before {
   content: '\e9f2';
 }
-[class*='heroicons\/receipt-refund']:before {
+.dashicons-heroicons\/receipt-refund:before {
   content: '\e9f3';
 }
-[class*='heroicons\/rectangle-group']:before {
+.dashicons-heroicons\/rectangle-group:before {
   content: '\e9f4';
 }
-[class*='heroicons\/rectangle-stack']:before {
+.dashicons-heroicons\/rectangle-stack:before {
   content: '\e9f5';
 }
-[class*='heroicons\/rocket-launch']:before {
+.dashicons-heroicons\/rocket-launch:before {
   content: '\e9f6';
 }
-[class*='heroicons\/rss']:before {
+.dashicons-heroicons\/rss:before {
   content: '\e9f7';
 }
-[class*='heroicons\/scale']:before {
+.dashicons-heroicons\/scale:before {
   content: '\e9f8';
 }
-[class*='heroicons\/scissors']:before {
+.dashicons-heroicons\/scissors:before {
   content: '\e9f9';
 }
-[class*='heroicons\/server-stack']:before {
+.dashicons-heroicons\/server-stack:before {
   content: '\e9fa';
 }
-[class*='heroicons\/server']:before {
+.dashicons-heroicons\/server:before {
   content: '\e9fb';
 }
-[class*='heroicons\/share']:before {
+.dashicons-heroicons\/share:before {
   content: '\e9fc';
 }
-[class*='heroicons\/shield-check']:before {
+.dashicons-heroicons\/shield-check:before {
   content: '\e9fd';
 }
-[class*='heroicons\/shield-exclamation']:before {
+.dashicons-heroicons\/shield-exclamation:before {
   content: '\e9fe';
 }
-[class*='heroicons\/shopping-bag']:before {
+.dashicons-heroicons\/shopping-bag:before {
   content: '\e9ff';
 }
-[class*='heroicons\/shopping-cart']:before {
+.dashicons-heroicons\/shopping-cart:before {
   content: '\ea00';
 }
-[class*='heroicons\/signal-slash']:before {
+.dashicons-heroicons\/signal-slash:before {
   content: '\ea01';
 }
-[class*='heroicons\/signal']:before {
+.dashicons-heroicons\/signal:before {
   content: '\ea02';
 }
-[class*='heroicons\/sparkles']:before {
+.dashicons-heroicons\/sparkles:before {
   content: '\ea03';
 }
-[class*='heroicons\/speaker-wave']:before {
+.dashicons-heroicons\/speaker-wave:before {
   content: '\ea04';
 }
-[class*='heroicons\/speaker-x-mark']:before {
+.dashicons-heroicons\/speaker-x-mark:before {
   content: '\ea05';
 }
-[class*='heroicons\/square-2-stack']:before {
+.dashicons-heroicons\/square-2-stack:before {
   content: '\ea06';
 }
-[class*='heroicons\/square-3-stack-3d']:before {
+.dashicons-heroicons\/square-3-stack-3d:before {
   content: '\ea07';
 }
-[class*='heroicons\/squares-2x2']:before {
+.dashicons-heroicons\/squares-2x2:before {
   content: '\ea08';
 }
-[class*='heroicons\/squares-plus']:before {
+.dashicons-heroicons\/squares-plus:before {
   content: '\ea09';
 }
-[class*='heroicons\/star']:before {
+.dashicons-heroicons\/star:before {
   content: '\ea0a';
 }
-[class*='heroicons\/stop-circle']:before {
+.dashicons-heroicons\/stop-circle:before {
   content: '\ea0b';
 }
-[class*='heroicons\/stop']:before {
+.dashicons-heroicons\/stop:before {
   content: '\ea0c';
 }
-[class*='heroicons\/sun']:before {
+.dashicons-heroicons\/sun:before {
   content: '\ea0d';
 }
-[class*='heroicons\/swatch']:before {
+.dashicons-heroicons\/swatch:before {
   content: '\ea0e';
 }
-[class*='heroicons\/table-cells']:before {
+.dashicons-heroicons\/table-cells:before {
   content: '\ea0f';
 }
-[class*='heroicons\/tag']:before {
+.dashicons-heroicons\/tag:before {
   content: '\ea10';
 }
-[class*='heroicons\/ticket']:before {
+.dashicons-heroicons\/ticket:before {
   content: '\ea11';
 }
-[class*='heroicons\/trash']:before {
+.dashicons-heroicons\/trash:before {
   content: '\ea12';
 }
-[class*='heroicons\/trophy']:before {
+.dashicons-heroicons\/trophy:before {
   content: '\ea13';
 }
-[class*='heroicons\/truck']:before {
+.dashicons-heroicons\/truck:before {
   content: '\ea14';
 }
-[class*='heroicons\/tv']:before {
+.dashicons-heroicons\/tv:before {
   content: '\ea15';
 }
-[class*='heroicons\/user-circle']:before {
+.dashicons-heroicons\/user-circle:before {
   content: '\ea16';
 }
-[class*='heroicons\/user-group']:before {
+.dashicons-heroicons\/user-group:before {
   content: '\ea17';
 }
-[class*='heroicons\/user-minus']:before {
+.dashicons-heroicons\/user-minus:before {
   content: '\ea18';
 }
-[class*='heroicons\/user-plus']:before {
+.dashicons-heroicons\/user-plus:before {
   content: '\ea19';
 }
-[class*='heroicons\/user']:before {
+.dashicons-heroicons\/user:before {
   content: '\ea1a';
 }
-[class*='heroicons\/users']:before {
+.dashicons-heroicons\/users:before {
   content: '\ea1b';
 }
-[class*='heroicons\/variable']:before {
+.dashicons-heroicons\/variable:before {
   content: '\ea1c';
 }
-[class*='heroicons\/video-camera-slash']:before {
+.dashicons-heroicons\/video-camera-slash:before {
   content: '\ea1d';
 }
-[class*='heroicons\/video-camera']:before {
+.dashicons-heroicons\/video-camera:before {
   content: '\ea1e';
 }
-[class*='heroicons\/view-columns']:before {
+.dashicons-heroicons\/view-columns:before {
   content: '\ea1f';
 }
-[class*='heroicons\/viewfinder-circle']:before {
+.dashicons-heroicons\/viewfinder-circle:before {
   content: '\ea20';
 }
-[class*='heroicons\/wallet']:before {
+.dashicons-heroicons\/wallet:before {
   content: '\ea21';
 }
-[class*='heroicons\/wifi']:before {
+.dashicons-heroicons\/wifi:before {
   content: '\ea22';
 }
-[class*='heroicons\/window']:before {
+.dashicons-heroicons\/window:before {
   content: '\ea23';
 }
-[class*='heroicons\/wrench-screwdriver']:before {
+.dashicons-heroicons\/wrench-screwdriver:before {
   content: '\ea24';
 }
-[class*='heroicons\/wrench']:before {
+.dashicons-heroicons\/wrench:before {
   content: '\ea25';
 }
-[class*='heroicons\/x-circle']:before {
+.dashicons-heroicons\/x-circle:before {
   content: '\ea26';
 }
-[class*='heroicons\/x-mark']:before {
+.dashicons-heroicons\/x-mark:before {
   content: '\ea27';
 }
