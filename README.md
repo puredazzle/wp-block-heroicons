@@ -13,6 +13,8 @@ Require the package, with Composer, in the root directory of your project.
 composer require puredazzle/wp-block-heroicons
 ```
 
+The plugin will be installed as a [must-use plugin](https://github.com/vinkla/wordplate#must-use-plugins).
+
 ## How to use
 
 ```json

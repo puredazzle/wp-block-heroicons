@@ -2,7 +2,7 @@
     "name": "puredazzle/wp-block-heroicons",
     "description": "A WordPress plugin for using Heroicons in your blocks.",
     "license": "MIT",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "keywords": [
         "wordplate",
         "heroicons",
